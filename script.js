@@ -52,6 +52,20 @@ let songCollection = [
     "artist" : "Taylor Swift",
     "image" : "lovestory.png"
   },
+  {
+    "songName" : "Goodbye Yellow Brick Road",
+    "category" : "elton",
+    "id" : "yellowbrick",
+    "artist" : "Elton John",
+    "image" : "yellowbrick.jpeg"
+  },
+  {
+    "songName" : "Cruel Summer",
+    "category" : "taylor",
+    "id" : "cruelsummer",
+    "artist" : "Taylor Swift",
+    "image" : "cruelsummer.png"
+  }
 ];
 
 document.addEventListener("DOMContentLoaded", function(){
